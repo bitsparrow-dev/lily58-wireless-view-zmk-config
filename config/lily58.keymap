@@ -45,7 +45,7 @@
 &kp LG(W)  &kp F1         &kp F2           &kp F3         &kp F4         &kp F5                                             &trans  &trans  &trans  &trans  &trans  &trans
 &kp GRAVE  &kp HOME       &kp LS(LC(TAB))  &kp UP         &kp LC(TAB)    &kp LG(RIGHT_BRACKET)                              &trans  &trans  &trans  &trans  &trans  &trans
 &trans     &kp PAGE_UP    &kp LEFT         &kp DOWN       &kp RIGHT      &kp LG(LEFT_BRACKET)                               &trans  &trans  &trans  &trans  &trans  &trans
-&kp ENTER  &kp PAGE_DOWN  &kp LG(MINUS)    &kp LA(LG(Z))  &kp LG(LS(Z))  &kp LG(NUMBER_0)       &kp LG(NUMBER_1)    &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp ENTER  &kp PAGE_DOWN  &kp LG(Z)        &kp LA(LG(Z))  &kp LG(LS(Z))  &kp LG(NUMBER_0)       &kp LG(NUMBER_1)    &trans  &trans  &trans  &trans  &trans  &trans  &trans
                                            &kp LS(LG(R))  &kp F6         &kp LS(LA(LG(S)))      &trans              &trans  &trans  &trans  &trans
             >;
 
