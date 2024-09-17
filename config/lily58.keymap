@@ -65,7 +65,7 @@
 &bt BT_CLR  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3      &kp LS(LG(NUMBER_4))  &kp LS(LG(NUMBER_5))                               &kp F6                 &kp F7            &kp F8      &kp F9         &kp F10  &kp F11
 &trans      &trans        &trans        &kp LS(UP_ARROW)  &trans                &kp LS(LG(Z))                                      &kp LG(RIGHT_BRACKET)  &kp RC(RS(TAB))   &kp UP      &kp RC(TAB)    &trans   &kp EQUAL
 &trans      &trans        &kp LS(LEFT)  &kp LS(DOWN)      &kp LS(RIGHT)         &kp LG(Z)                                          &kp LG(LEFT_BRACKET)   &kp LEFT          &kp DOWN    &kp UP         &trans   &kp BACKSLASH
-&trans      &trans        &trans        &trans            &trans                &trans                &trans           &kp C_MUTE  &trans                 &kp RC(LEFT)      &kp RC(UP)  &kp RC(RIGHT)  &trans   &kp ESCAPE
+&trans      &trans        &trans        &trans            &trans                &kp LA(LG(Z))         &trans           &kp C_MUTE  &trans                 &kp RC(LEFT)      &kp RC(UP)  &kp RC(RIGHT)  &trans   &kp ESCAPE
                                         &trans            &trans                &trans                &kp LS(LG(V))    &trans      &kp C_PREVIOUS         &kp C_PLAY_PAUSE  &kp C_NEXT
             >;
 
