@@ -62,11 +62,11 @@
 
             display-name = "Raise";
             bindings = <
-&trans  &trans  &trans             &trans        &trans              &kp F6                                           &kp F6                 &kp F7            &kp F8            &kp F9            &kp F10    &kp F11
-&trans  &trans  &trans             &trans        &kp LS(LG(R))       &kp RIGHT_BRACKET                                &kp LG(RIGHT_BRACKET)  &kp RC(RS(TAB))   &kp UP            &kp RC(TAB)       &kp HOME   &kp EQUAL
-&trans  &trans  &kp LS(LA(LG(S)))  &trans        &kp LS(DOWN_ARROW)  &kp LEFT_BRACKET                                 &kp LG(LEFT_BRACKET)   &kp LEFT          &kp DOWN          &kp RIGHT         &kp PG_UP  &kp BACKSLASH
-&trans  &trans  &trans             &kp LS(LEFT)  &kp LS(DOWN)        &kp LS(RIGHT)      &trans            &kp C_MUTE  &trans                 &kp RC(NUMBER_1)  &kp RC(NUMBER_2)  &kp RC(NUMBER_3)  &kp PG_DN  &kp ESCAPE
-                                   &trans        &trans              &trans             &kp LS(LG(N5))    &trans      &kp C_PREVIOUS         &kp C_PLAY_PAUSE  &kp C_NEXT
+&trans  &trans  &trans             &trans        &trans         &kp F6                                           &kp F6                 &kp F7            &kp F8            &kp F9            &kp F10    &kp F11
+&trans  &trans  &trans             &trans        &kp LS(LG(R))  &kp RIGHT_BRACKET                                &kp LG(RIGHT_BRACKET)  &kp RC(RS(TAB))   &kp UP            &kp RC(TAB)       &kp HOME   &kp EQUAL
+&trans  &trans  &kp LS(LA(LG(S)))  &trans        &kp LS(UP)     &kp LEFT_BRACKET                                 &kp LG(LEFT_BRACKET)   &kp LEFT          &kp DOWN          &kp RIGHT         &kp PG_UP  &kp BACKSLASH
+&trans  &trans  &trans             &kp LS(LEFT)  &kp LS(DOWN)   &kp LS(RIGHT)      &trans            &kp C_MUTE  &trans                 &kp RC(NUMBER_1)  &kp RC(NUMBER_2)  &kp RC(NUMBER_3)  &kp PG_DN  &kp ESCAPE
+                                   &trans        &trans         &trans             &kp LS(LG(N5))    &trans      &kp C_PREVIOUS         &kp C_PLAY_PAUSE  &kp C_NEXT
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
